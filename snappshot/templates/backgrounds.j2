@@ -1,0 +1,15 @@
+<div class="row-fluid">
+  <div class="span12 scrollable well scrollbar">
+    <div class="row-fluid">
+    <ul class="thumbnails">
+      {% for i in image_range %}
+        <li class="span2" id="scrollitem{{i}}">
+          <a href="/snappshot/upload/{{ i }}" class="thumbnail{% if image_id|add:0 == i %} active{% endif %}">
+            <img data-src="holder.js/160x120" src="{{ STATIC_URL }}images/backgrounds/thumbnails/{{ i }}.jpg"  />            
+          </a>
+        </li>
+     {% endfor %}
+    </ul>
+  </div>
+  </div>
+</div>
