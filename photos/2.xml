@@ -1,0 +1,21 @@
+<background>
+	<location>
+		IMG_0028.JPG
+	</location>
+	<device>
+		<resolution>
+			<width>720</width>
+			<height>1280</height>
+		</resolution>
+		<placement>
+			<top_left_x>2856</top_left_x>
+			<top_left_y>794</top_left_y>
+			<top_right_x>4044</top_right_x>
+			<top_right_y>716</top_right_y>
+			<bottom_right_x>4028</bottom_right_x>
+			<bottom_right_y>2994</bottom_right_y>
+			<bottom_left_x>2750</bottom_left_x>
+			<bottom_left_y>2912</bottom_left_y>
+		</placement>
+	</device>
+</background>

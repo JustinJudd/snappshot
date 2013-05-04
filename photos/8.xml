@@ -1,0 +1,21 @@
+<background>
+	<location>
+		IMG_0034.JPG
+	</location>
+	<device>
+		<resolution>
+			<width>720</width>
+			<height>1280</height>
+		</resolution>
+		<placement>
+			<top_left_x>2474</top_left_x>
+			<top_left_y>1090</top_left_y>
+			<top_right_x>3288</top_right_x>
+			<top_right_y>1098</top_right_y>
+			<bottom_right_x>3314</bottom_right_x>
+			<bottom_right_y>2708</bottom_right_y>
+			<bottom_left_x>2537</bottom_left_x>
+			<bottom_left_y>2591</bottom_left_y>
+		</placement>
+	</device>
+</background>
