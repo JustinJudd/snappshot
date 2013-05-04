@@ -15,10 +15,11 @@ I have created standalone scripts that can be run to place a screenshot into an 
 
 ### Website
 I have created a django app for Snappshot. The following steps are needed to prepare and run the django app.
+
 1. Prepare the available background images for the site
 
-	python scripts/prepare_images.py photos/ snappshot/static/images/backgrounds_test/
+		python scripts/prepare_images.py photos/ snappshot/static/images/backgrounds_test/
 2. Update the django app settings
 3. Run the django app
 
-	python manage.py runserver 0.0.0.0:[port]
+		python manage.py runserver 0.0.0.0:[port]
