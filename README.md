@@ -18,7 +18,7 @@ I have created a django app for Snappshot. The following steps are needed to pre
 
 1. Prepare the available background images for the site
 
-		python scripts/prepare_images.py photos/ snappshot/static/images/backgrounds_test/
+		python scripts/prepare_images.py photos/ snappshot/static/images/backgrounds/
 2. Update the django app settings
 3. Run the django app
 
