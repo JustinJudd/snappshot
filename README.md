@@ -23,3 +23,10 @@ I have created a django app for Snappshot. The following steps are needed to pre
 3. Run the django app
 
 		python manage.py runserver 0.0.0.0:[port]
+
+
+
+#### NOTE
+For creating the 'fake' screenshot showing the dimension of the screenshots that should be loaded, I am using the ubuntu font family.
+This font can be installed with the ttf-ubuntu-font-family package on debian.
+Also, you can change the default font in the script create_fill_screenshot.py
